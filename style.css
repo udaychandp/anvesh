@@ -942,7 +942,7 @@ a {
 }
 
 .testimonial-swiper .testimonial-item blockquote p {
-  font-size: 2.5em;
+  font-size: 1.5em;
 }
 
 .testimonial-swiper .testimonial-item blockquote>p {
@@ -984,7 +984,7 @@ a {
 
 @media only screen and (max-width: 1199px) {
   .testimonial-swiper .testimonial-item blockquote p {
-    font-size: 1.8em;
+    font-size: 1.5em;
   }
   .testimonial-swiper .swiper-slide {
     width: 100% !important;
@@ -993,7 +993,7 @@ a {
 
 @media only screen and (max-width: 999px) {
   .testimonial-swiper .testimonial-item blockquote {
-    font-size: 1.2em;
+    font-size: 1.5em;
   }
 }
 
